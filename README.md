@@ -4,5 +4,3 @@ This is the repository for Project Group #2 in the Spring 2022 Semester of CS 45
 Frontend taken from: https://github.com/PreyeaRegmi/RICE-Portal
 <br />
 Intel-agent taken from: https://github.com/maruf0011/cloud_computing
-
-<br />
